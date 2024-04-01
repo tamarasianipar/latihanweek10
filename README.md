@@ -1,1 +1,2 @@
 # latihanweek10
+javac
